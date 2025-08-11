@@ -55,3 +55,5 @@ Mark has park mark.
 Mark has park cross.
 
 Mark has major.
+
+Mark has Dark.
