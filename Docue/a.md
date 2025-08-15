@@ -58,6 +58,10 @@ Mark has major.
 
 Mark has Dark.
 
+Mark is base on Gain.
+
+Mark is worth gain.
+
 Mark general is worth general.
 
 Mark level is worth level.
