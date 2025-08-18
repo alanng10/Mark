@@ -65,3 +65,10 @@ Mark is worth gain.
 Mark general is worth general.
 
 Mark level is worth level.
+
+Mark word has spell.
+The spell is:
+"M" for Mine Goal.
+"a" for any class.
+"r" for radius total.
+"k" for kinded time.
