@@ -71,4 +71,4 @@ The spell is:
 "M" for Mine Goal.
 "a" for any class.
 "r" for radius total.
-"k" for kinded time.
+"k" for kind time.
