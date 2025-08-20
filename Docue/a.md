@@ -1,6 +1,6 @@
 # Mark
 
-Mark is worth general and worth level.
+Mark is worth gene and worth level.
 
 Mark is park mark.
 
@@ -62,7 +62,7 @@ Mark is base on Gain.
 
 Mark is worth gain.
 
-Mark general is worth general.
+Mark gene is worth gene.
 
 Mark level is worth level.
 
