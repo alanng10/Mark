@@ -62,9 +62,9 @@ Mark is base on Gain.
 
 Mark is worth gain.
 
-Mark tier is worth tier. 
+Mark tier is worth tier.
 
-Mark leve is worth leve. 
+Mark leve is worth leve.
 
 Mark word has spell.
 The spell is:
