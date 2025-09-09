@@ -1,6 +1,6 @@
 # Mark
 
-Mark is worth gene and worth leve.
+Mark is worth gene.
 
 Mark is park mark.
 
@@ -62,9 +62,9 @@ Mark is base on Gain.
 
 Mark is worth gain.
 
-Mark gene is worth gene.
+Mark tier is worth tier.
 
-Mark leve is worth leve.
+Mark leve is worth leve. 
 
 Mark word has spell.
 The spell is:
