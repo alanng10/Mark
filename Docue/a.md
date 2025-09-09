@@ -60,7 +60,7 @@ Mark has Dark.
 
 Mark is base on Gain.
 
-Mark is worth gain.
+Mark is worth gain. 
 
 Mark tier is worth tier.
 
