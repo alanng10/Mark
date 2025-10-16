@@ -68,6 +68,8 @@ Mark leve is worth leve.
 
 MARK is WORTH GAIN.
 
+MARK is civil worth grand.
+
 Mark word has spell.
 The spell is:
 "M" for Mine Goal.
