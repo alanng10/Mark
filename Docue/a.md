@@ -66,6 +66,8 @@ Mark tier is worth tier.
 
 Mark leve is worth leve.
 
+MARK is WORTH GAIN.
+
 Mark word has spell.
 The spell is:
 "M" for Mine Goal.
